@@ -1,6 +1,6 @@
 # NatoursNg
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+Natours Project from Jonas Schmedtmann's course [Advanced CSS and Sass: Flexbox, Grid, Animations and More!]("https://www.https://www.udemy.com/course/advanced-css-and-sass/").
 
 ## Development server
 
