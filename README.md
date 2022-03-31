@@ -1,6 +1,6 @@
 # NatoursNg
 
-Natours Project from Jonas Schmedtmann's course [Advanced CSS and Sass: Flexbox, Grid, Animations and More!]("https://www.https://www.udemy.com/course/advanced-css-and-sass/").
+Natours Project from Jonas Schmedtmann's course [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/).
 
 ## Development server
 
